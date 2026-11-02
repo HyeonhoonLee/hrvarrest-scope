@@ -1,0 +1,8 @@
+data/
+output/
+*.vital
+*.parquet
+*.xlsx
+__pycache__/
+*.py[cod]
+.venv/
